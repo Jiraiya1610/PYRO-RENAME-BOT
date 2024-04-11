@@ -6,11 +6,11 @@
     "repository": "https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "27975779",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "378062eb0a32d8d6b1bbbe97cb63a75a",
             "value": ""
         },
         "WEBHOOK": {
@@ -18,27 +18,27 @@
             "value": "False"
         },
         "FORCE_SUB": {
-            "description": "Your force sub channel user name without [@] ",
+            "description": "anime_Tamil_dubbed_1 ",
             "value": "",
             "required": false 
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "6891922429:AAGAn7eNILMPwYcc9NtcLehzDFC-JVCdVh4",
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"1416841137"
         },
         "LOG_CHANNEL": {
-            "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
+            "description":"-1002101383084",
             "required": false           
         },
         "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "mongodb+srv://siva811413:PpFVCH3gaS&xVEw@cluster0.exjunpd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "value": ""
         },
         "DB_NAME":{ 
-            "description":"Your Mongo DB Database Name ",
+            "description":"siva ram ",
             "value": "pyro-botz",
             "required": false
         },
